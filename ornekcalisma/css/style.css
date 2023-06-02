@@ -1,0 +1,21 @@
+.avatar {
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    margin-top: 10px;
+    
+}
+
+.avatar-box {
+    text-align: center;
+
+}
+
+.post-icerik {
+    background-color: whitesmoke;
+    height: 250px;
+}
+
+.footer-yukseklik {
+    height: 200px;
+}
